@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mortgage Calculator</string>
+    <string name="action_settings">Settings</string>
+    <string name="Purchase_price">Purchase price</string>
+    <string name="unit_of_price"> $ </string>
+    <string name="Down_payment">Down payment</string>
+    <string name="unit_of_downPayment"> % </string>
+    <string name="Mortgage_term">Mortgage term</string>
+    <string name="years">years</string>
+    <string name="Interest_rate">Interest rate</string>
+    <string name="unit_of_interestRate"> % </string>
+    <string name="Property_tax">Property tax</string>
+    <string name="unit_of_tax"> $ per year</string>
+    <string name="Property_insurance">Property insurance</string>
+    <string name="unit_of_insurance"> $ per year</string>
+    <string name="ZIP_Code"> ZIP Code</string>
+    <string name="First_payment_date"> First payment date</string>
+    <string-array name="month_arrays">
+        <item>Jan</item>
+        <item>Feb</item>
+        <item>Mar</item>
+        <item>Apr</item>
+        <item>May</item>
+        <item>Jun</item>
+        <item>Jul</item>
+        <item>Aug</item>
+        <item>Sep</item>
+        <item>Oct</item>
+        <item>Nov</item>
+        <item>Dec</item>
+    </string-array>
+    <string-array name="year_arrays">
+        <item>2009</item>
+        <item>2010</item>
+        <item>2011</item>
+        <item>2012</item>
+        <item>2013</item>
+        <item>2014</item>
+        <item>2015</item>
+        <item>2016</item>
+        <item>2017</item>
+        <item>2018</item>
+        <item>2019</item>
+        <item>2020</item>
+        <item>2021</item>
+        <item>2022</item>
+        <item>2023</item>
+        <item>2024</item>
+    </string-array>
+     <string name="Calculate">Calculate</string>
+     <string name="monthly_payment">Total monthly payment : </string>
+     <string name="date">Pay-off-date : </string>
+    
+    
+    
+    
+
+    
+
+</resources>
